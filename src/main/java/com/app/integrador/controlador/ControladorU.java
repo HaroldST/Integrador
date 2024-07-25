@@ -62,7 +62,7 @@ public class ControladorU extends HttpServlet {
                 cantidad = 1;
                 idp = Integer.parseInt(request.getParameter("id"));
                 p = pdao.listarID(idp);
-                if (listaCarrito.size() > 0) {
+                if (!listaCarrito.isEmpty()) {
                     for (int i = 0; i < listaCarrito.size(); i++) {
                         if (idp == listaCarrito.get(i).getIdProducto()) {
                             pos = i;
