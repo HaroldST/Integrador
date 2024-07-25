@@ -137,7 +137,7 @@
 
                 <div class="item-footer">
                     <a href="paginas/LibroReclamos.php">Libro de Reclamaciones</a>
-                    <p>2023 ©</p>
+                    <p>2024 ©</p>
                     <a href="index.php">Easyfarma.</a>
                     <p>All Rights Reserved</p>
                 </div>	
