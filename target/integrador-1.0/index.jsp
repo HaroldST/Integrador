@@ -17,7 +17,7 @@
     <body>
         <div class="contenido"> 
         <h1 style="color: #fff; margin: 30px;">TU SALUD ES NUESTRA PRIORIDAD, SIEMPRE LISTOS PARA CUIDARTE.</h1>
-        <h1 style="color: #fff; font-size: 30px">Escoge el tipo de usuario que posees</h1>
+        <h1 style="color: #fff; font-size: 30px">Escoge el tipo de usuario que eres</h1>
         <form style="margin: 30px;" class="read-more" action="login.jsp" method="post">
             <input class="read-more" type="submit" value="Administrador">
         </form>
